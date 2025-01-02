@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed HTML bug where a hidden element, once hidden using JavaScript, cannot be shown again without a page refresh. The bug.html file showcases the problem, while the solution.html file provides the corrected version.
